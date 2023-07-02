@@ -15,4 +15,5 @@
    ->It uses the basics of graph classification and shows us how we can use it to our advantage.
 
 5. ->This file has the usage of a new database on data about diamonds.
-   ->We have also made a sample table for a bar graph to show how it can be used in a simple way.
+   ->I have also made a sample table for a bar graph to show how it can be used in a simple way.
+   ->Contains basics of bar graph.
